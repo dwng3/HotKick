@@ -77,7 +77,7 @@
     <div class="container">
         <article class="slider_inner">
             <h2>슬라이더</h2>
-            <p>아이들의 사랑스러운 모습을 기록해보세요!</p>
+            <p>아이들의 사랑스러운 모습을 기록해보세요!!</p>
             <div class="slider_img">
                 <div class="ban1"><a href=""><img src="img/slide1.jpeg" alt="이미지1"></a></div>
                 <div class="ban1"><a href=""><img src="img/slide2.jpeg" alt="이미지2"></a></div>
